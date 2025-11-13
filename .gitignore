@@ -35,8 +35,9 @@ dist/
 build/
 *.tsbuildinfo
 
+job_env/
+
 # Environment variables
-.job_env
 .env
 .env.local
 .env.development.local
